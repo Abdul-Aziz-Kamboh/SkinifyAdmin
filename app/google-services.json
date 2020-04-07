@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "315696342927",
+    "firebase_url": "https://skinify-496cb.firebaseio.com",
+    "project_id": "skinify-496cb",
+    "storage_bucket": "skinify-496cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315696342927:android:1cc06238e08474d0bb0dfa",
+        "android_client_info": {
+          "package_name": "com.example.skinify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315696342927-vhktlrpndhoh972352cv1eknhv3ke7tg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCElJy0Qm0cRd6dWRc678ksHsRztR_iICA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315696342927-6n6hehcpjns95489eb8o7a26odrkqlt6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315696342927:android:5f49e4e8808e3c0ebb0dfa",
+        "android_client_info": {
+          "package_name": "com.multidextech.skinify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315696342927-kc03bj9bms89qae058ak2s4vk6tf0a68.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.multidextech.skinify",
+            "certificate_hash": "d6d26578ee494721dc79ef484834e80e1424de1a"
+          }
+        },
+        {
+          "client_id": "315696342927-r3g3r46p7trvi8b9iit8vb82l5qaniqq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.multidextech.skinify",
+            "certificate_hash": "67eca0a9e2412c13f9005f8d91f1da6e026e6ea6"
+          }
+        },
+        {
+          "client_id": "315696342927-2c0vq0v2hqf8jc3nahhola5b49fk0830.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.multidextech.skinify",
+            "certificate_hash": "16b15b70dfc207b730e85e32baedaa7c985a0b8a"
+          }
+        },
+        {
+          "client_id": "315696342927-nug17322t0bq47qhd8t1dfbk43cj9ktg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.multidextech.skinify",
+            "certificate_hash": "1bed820851e52e95d0d532e2c538d42c31afce40"
+          }
+        },
+        {
+          "client_id": "315696342927-vhktlrpndhoh972352cv1eknhv3ke7tg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCElJy0Qm0cRd6dWRc678ksHsRztR_iICA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315696342927-6n6hehcpjns95489eb8o7a26odrkqlt6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315696342927:android:63b8bf0233306b44bb0dfa",
+        "android_client_info": {
+          "package_name": "info.camposha.firebaserecyclerimagesuploaddownload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315696342927-vhktlrpndhoh972352cv1eknhv3ke7tg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCElJy0Qm0cRd6dWRc678ksHsRztR_iICA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315696342927-6n6hehcpjns95489eb8o7a26odrkqlt6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
